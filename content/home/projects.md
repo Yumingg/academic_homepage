@@ -20,4 +20,6 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in exciting projects with technical contributions to the cryptocurrency world. Here are my favourate selections. (Excluding mainstream cryptocurrencies like BTC, ETH)
+I actively invest in exciting projects with technical contributions to the cryptocurrency world. Here are my favourate selections. 
+
+(Excluding mainstream cryptocurrencies like BTC, ETH)
