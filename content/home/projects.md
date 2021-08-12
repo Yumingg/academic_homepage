@@ -20,6 +20,6 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in exciting projects with technical contributions in mechanism design, cryptography primitives and system designs. Here are my favourate selections. 
+I actively invest in exciting projects with technical contributions in mechanism design, cryptography primitives and system designs. Here are my favourate portfolio selections. 
 
 (Excluding mainstream cryptocurrencies like BTC, ETH)
