@@ -1,11 +1,12 @@
 ---
 title: Huang Yuming
-role: PhD Student @ Industrial Engineering
+role: PhD Student @ Department of Industrial Engineering and Management
 bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
   - Distributed Systems
-  - Stochastic Processes;Operations Research
+  - Stochastic Processes
+  - Operations Research
 social:
   - icon: twitter
     icon_pack: fab
