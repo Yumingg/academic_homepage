@@ -20,6 +20,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Yumingg
+  - display:
+      header: false
+    icon: envelop
+    link: huangyuming@u.nus.edu
+    icon_pack: fab
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
