@@ -1,6 +1,6 @@
 ---
-title: "Oasis: a privacy preserving computation platform. (Private Sell)"
-date: 2021-08-12T15:56:59.228Z
+title: "Oasis: privacy preserving computation platform. (Private Sell)"
+date: 2020-06-01T15:56:59.228Z
 draft: false
 featured: false
 external_link: https://www.oasislabs.com/
