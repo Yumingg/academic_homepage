@@ -20,4 +20,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in exciting crypto projects with technical novelty in mechanism and system design. Here is my favorate selections. (Excluding mainstream cryptocurrencies like BTC, ETH)
+I actively invest in exciting projects with technical contributions to the cryptocurrency world. Here are my favourate selections. Some projects possess novelty in mechanism design; some provide insights on cryptographical application or system design. (Excluding mainstream cryptocurrencies like BTC, ETH)
