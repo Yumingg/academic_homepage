@@ -10,13 +10,20 @@ experience:
     date_end: ""
     
   - title: Teaching Assistant
-    company: University X
-    company_url: ""
+    company: National University of Singapore
+    company_url: "https://www.nus.edu.sg/"
     location: Singapore
     date_start: 2017-07-01
     date_end: 2020-07-01
     
-widget_id: "5"
+  - title: Research Assistant
+    company: Northwestern Polytechnical University
+    company_url: "https://en.nwpu.edu.cn/"
+    location: China
+    date_start: 2017-07-01
+    date_end: 2020-07-01
+
+widget_id: "1"
 headless: true
 weight: 20
 title: Experience
