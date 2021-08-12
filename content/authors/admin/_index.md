@@ -28,8 +28,8 @@ education:
       institution: National University of Singapore
       year: ""
     - course: BEng in Automation
-      institution: Northwestern Polytechnical Universitt
-      year: -2
+      institution: Northwestern Polytechnical University
+      year: ""
 email: huangyuming@u.nus.edu
 superuser: true
 highlight_name: false
