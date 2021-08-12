@@ -4,7 +4,7 @@ role: PhD Student @ Department of Industrial Engineering and Management
 bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
-  - Distributed Systems
+  - Decentralized Systems
   - Stochastic Processes
   - Operations Research
 social:
