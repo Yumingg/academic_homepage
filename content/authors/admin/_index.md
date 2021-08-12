@@ -34,6 +34,6 @@ email: huangyuming@u.nus.edu
 superuser: true
 highlight_name: false
 ---
-I am currently a PhD student at Department of Industrial System Engineering and Management of {{< staticref "https://nus.edu.sg/" "newtab" >}}National University of Singapore{{< /staticref >}}, supervised by {{< staticref "https://scholar.google.com/citations?user=99AJNXEAAAAJ" "newtab" >}}Prof. Chee Yeow Meng{{< /staticref >}} and {{< staticref "https://limandrew.org/" "newtab" >}} Prof. Andrew Lim {{< /staticref >}}. I work closely with {{< staticref "https://sites.google.com/view/jtang" "newtab" >}}Prof. Jing Tang{{< /staticref >}}.
+I am currently a PhD student at Department of Industrial System Engineering and Management of {{< staticref "https://nus.edu.sg/" "newtab" >}}National University of Singapore{{< /staticref >}}, supervised by {{< staticref "https://scholar.google.com/citations?user=99AJNXEAAAAJ" "newtab" >}}Prof. Chee Yeow Meng{{< /staticref >}} and {{< staticref "https://limandrew.org/" "newtab" >}} Prof. Andrew Lim {{< /staticref >}}. I work closely with {{< staticref "https://sites.google.com/view/jtang" "newtab" >}}Prof. Jing Tang{{< /staticref >}}. I received my B.E. degree from the School of Automation, [](http://en.xidian.edu.cn/){{< staticref "https://en.nwpu.edu.cn" "newtab" >}}Northwestern Polytechnical University{{< /staticref >}} in 2017.
 
 My research interests center around blockchain and cryptocurrency.
