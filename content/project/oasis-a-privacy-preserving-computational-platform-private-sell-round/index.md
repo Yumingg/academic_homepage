@@ -1,5 +1,5 @@
 ---
-title: "Oasis: a privacy preserving computational platform. (Private Sell Round)"
+title: "Oasis: a privacy preserving computation platform. (Private Sell)"
 date: 2021-08-12T15:56:59.228Z
 draft: false
 featured: false
