@@ -22,7 +22,7 @@ experience:
     date_end: 2020-07-01
 widget_id: "4"
 headless: true
-weight: 20
+weight: 60
 title: Experience
 subtitle: null
 design:
