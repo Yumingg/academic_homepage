@@ -1,5 +1,5 @@
 ---
-title: "Nucypher: Cryptographic Infrastructure (Locking Farming)"
+title: "Nucypher: Cryptographic Infrastructure (Lock Farming)"
 date: 2021-08-12T17:01:13.697Z
 draft: false
 featured: false
