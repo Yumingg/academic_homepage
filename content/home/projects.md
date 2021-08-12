@@ -1,9 +1,9 @@
 ---
-widget: Selected portfolio
+widget: portfolio
 widget_id: "2"
 headless: true
 weight: 30
-title: Portfolio
+title: Selected Portfolio
 subtitle: ""
 content:
   page_type: project
@@ -20,3 +20,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+I actively invest in exciting crypto projects with technical novelty in mechanism and system design. Here is my favorate selections.
