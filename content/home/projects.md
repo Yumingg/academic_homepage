@@ -20,4 +20,3 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in crypto projects with novelty in mechanism design, consensus algorithms and varies system designs. I always carefully review the technical contribution of projects before making investment decision. Here is the selected list of my favorite crypto projects.
