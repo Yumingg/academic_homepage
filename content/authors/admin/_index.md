@@ -7,21 +7,18 @@ interests:
   - Distributed Systems
   - Stochastic Processes
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Yuming-Huang-6
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://sg.linkedin.com/in/huangyuming
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Yumingg
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
