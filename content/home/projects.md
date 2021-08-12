@@ -20,4 +20,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in exciting crypto projects with technical novelty in mechanism and system design. Here is my favorate selections.
+I actively invest in exciting crypto projects with technical novelty in mechanism and system design. Here is my favorate selections..
