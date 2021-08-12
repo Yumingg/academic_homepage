@@ -4,7 +4,7 @@ widget_id: "2"
 headless: true
 weight: 65
 title: Portfolio
-subtitle: \
+subtitle: ""
 content:
   page_type: project
   filter_default: 0
@@ -20,3 +20,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+I actively
