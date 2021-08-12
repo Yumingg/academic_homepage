@@ -6,10 +6,8 @@ publication_types:
   - "1"
 authors:
   - Yuming Huang
-  - Jing Tang
-  - Qianhao Cong
-  - Andrew Lim
-  - and Jianliang Xu.
+  - Lei Du
+  - et.al
 author_notes: []
 publication: Imaging Genetics Workshop in MICCAI 2017
 summary: ""
