@@ -1,7 +1,6 @@
 ---
 title: Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives.
 publication_types:
-  - "0"
   - "1"
 authors:
   - Yuming Huang
