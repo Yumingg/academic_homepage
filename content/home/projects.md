@@ -20,6 +20,6 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in exciting projects with technical contributions in mechanism design, cryptography primitives and system designs. Here are my favourate portfolio selections. 
+I actively invest in crypto venture projects with technical contributions in token economics, cryptography and distributed system. Here are my favourite portfolio selections. 
 
 (Excluding mainstream cryptocurrencies like BTC, ETH)
