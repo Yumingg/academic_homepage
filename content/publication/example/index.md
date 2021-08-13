@@ -12,7 +12,7 @@ authors:
   - and Jianliang Xu.
 author_notes: []
 publication: Proceedings of the ACM SIGMOD International Conference on
-  Management of Data (SIGMOD), pages 790-803, 2021.
+  Management of Data (SIGMOD) 2021.
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -30,7 +30,7 @@ image:
   preview_only: false
 date: 2021-08-12T14:38:01.111Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
