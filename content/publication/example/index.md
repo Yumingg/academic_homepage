@@ -18,7 +18,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=eepUV9NJxFs&ab_channel=Yuming"
 title: Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives.
 doi: ""
 featured: false
