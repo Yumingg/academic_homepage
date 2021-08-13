@@ -1,7 +1,7 @@
 ---
 title: "IPFS: Theory and Practice"
 publication_types:
-  - "6"
+  - "5"
 authors:
   - Tianyi Dong
   - Jiale Dai
