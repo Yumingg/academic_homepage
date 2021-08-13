@@ -8,7 +8,7 @@ interests:
   - Stochastic Processes
   - Operations Research
 social:
-  - icon: envelop
+  - icon: envelope
     icon_pack: fas
     link: mailto:huangyuming@u.nus.edu
   - icon: twitter
