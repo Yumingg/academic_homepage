@@ -20,6 +20,8 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in crypto venture projects with technical contributions in token economics, cryptography and distributed systems. Here are my favourite portfolio selections. 
+I actively invest in crypto venture projects with technical contributions in token economics, cryptography and distributed systems. 
+
+Here are my favourite portfolio selections. 
 
 (Excluding mainstream cryptocurrencies like BTC, ETH)
