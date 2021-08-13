@@ -9,7 +9,7 @@ interests:
   - Operations Research
 social:
   - icon: envelop
-    icon_pack: fab
+    icon_pack: fas
     link: mailto:huangyuming@u.nus.edu
   - icon: twitter
     icon_pack: fab
@@ -25,9 +25,7 @@ social:
     link: https://github.com/Yumingg
   - display:
       header: false
-    icon: envelop
-    link: huangyuming@u.nus.edu
-    icon_pack: fab
+
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
