@@ -16,16 +16,13 @@ social:
     link: https://twitter.com/YumingHuang95
   - icon: graduation-cap
     icon_pack: fas
-    link: https://www.researchgate.net/profile/Yuming-Huang-6
+    link: https://scholar.google.com.sg/citations?user=xv6lgqIAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://sg.linkedin.com/in/huangyuming
   - icon: github
     icon_pack: fab
     link: https://github.com/Yumingg
-  - display:
-      header: false
-
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
