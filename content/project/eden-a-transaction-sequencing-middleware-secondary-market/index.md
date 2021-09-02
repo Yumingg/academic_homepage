@@ -1,5 +1,5 @@
 ---
-title: "EDEN: A transaction sequencing middleware (Secondary Market)"
+title: "EDEN: A transaction sequencing middleware (Sec. Market)"
 date: 2021-09-02T02:53:08.975Z
 draft: false
 featured: false
