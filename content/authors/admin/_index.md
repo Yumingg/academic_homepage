@@ -20,9 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://sg.linkedin.com/in/huangyuming
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Yumingg
+  - display:
+      header: false
+    link: huangyuming158
+    icon: wechat
+    icon_pack: far
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
