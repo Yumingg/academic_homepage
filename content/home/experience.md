@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Analytics Intern
+  - title: Research Consultant
     company: Huobi Venture
     company_url: https://www.huobi.com/en-us/capital/
     location: Singapore
