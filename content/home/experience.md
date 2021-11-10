@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: Research Consultant (Part Time)
     company: MatrixPort Venture
-    company_url: https://https://www.matrixport.com/
+    company_url: https://www.matrixport.com/
     location: Singapore
     date_start: 2021-11-01
     date_end: ""
