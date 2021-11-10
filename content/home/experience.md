@@ -2,6 +2,12 @@
 widget: experience
 date_format: Jan 2006
 experience:
+    - title: Research Consultant (Part Time)
+    company: MatrixPort Venture
+    company_url: https://https://www.matrixport.com/
+    location: Singapore
+    date_start: 2021-11-01
+    date_end: ""
   - title: Research Consultant (Part Time)
     company: Huobi Venture
     company_url: https://www.huobi.com/en-us/capital/
