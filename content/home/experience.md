@@ -5,7 +5,7 @@ experience:
    - title: Research Consultant (Part Time)
     company: IDG Ventures
     company_url: https://en.idgcapital.com/
-    location: Singapore
+    location: China
     date_start: 2021-11-18
     date_end: ""
   - title: Research Consultant (Part Time)
