@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-   - title: Research Consultant (Part Time)
+  - title: Research Consultant (Part Time)
     company: IDG Ventures
     company_url: https://en.idgcapital.com/
     location: China
