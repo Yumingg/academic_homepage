@@ -8,7 +8,7 @@ authors:
   - Yuming Huang
   - Lei Chen
   - and Yeow Meng Chee
-publication_short: Forthcoming.
+publication_short: ICDE 2022, Forthcoming
 draft: false
 featured: false
 image:
