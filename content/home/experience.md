@@ -2,25 +2,25 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Research Consultant (Part Time)
+  - title: Research Consultant (Collaboration)
     company: IDG Capital
     company_url: https://en.idgcapital.com/
     location: China
     date_start: 2021-11-18
     date_end: ""
-  - title: Research Consultant (Part Time)
+  - title: Research Consultant (Collaboration)
     company: MatrixPort Venture
     company_url: https://www.matrixport.com/
     location: Singapore
     date_start: 2021-11-01
     date_end: ""
-  - title: Research Consultant (Part Time)
+  - title: Research Consultant (Collaboration)
     company: Huobi Venture
     company_url: https://www.huobi.com/en-us/capital/
     location: Singapore
     date_start: 2021-01-01
     date_end: ""
-  - title: Research Engineer / Teaching Assistant
+  - title: Research Engineer / Teaching Assistant (Full Time)
     company: National University of Singapore
     company_url: https://www.nus.edu.sg/
     location: Singapore
