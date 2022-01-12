@@ -8,7 +8,7 @@ design:
   columns: "2"
   background:
     text_color_light: true
-    image_darken: 0
+    image_darken: 0.1
 ---
 Research consultant: IDG Capital, Matrixport Capital, Huobi Ventures
 
