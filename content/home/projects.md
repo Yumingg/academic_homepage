@@ -13,6 +13,12 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in crypto venture projects with technical contributions in token economics, cryptography and distributed systems. 
+I actively invest in crypto venture projects with technical contributions in decentralization. Some of my recent interests are as follows. 
+
+1. New applications in zero-knowledge proof. 
+2. Novel proof mechanism.
+3. Novel economical design. 
+4. New consensus algorithm with solid theory. 
+5. New progress on anonymous communication/transaction.
 
 Here are my favourite portfolio selections (altcoin).
