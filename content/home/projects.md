@@ -13,7 +13,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in either bull/bear market. 
+As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in bull/bear cycle. 
 
 Some of my recent interests are as follows. 
 
