@@ -15,7 +15,7 @@ design:
 ---
 As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in bull/bear cycle. 
 
-Some of my recent interests are as follows. 
+Some of my recent interests (not limit to) are as follows. 
 
 1. New applications in zero-knowledge proof. 
 2. Novel proof mechanism.
