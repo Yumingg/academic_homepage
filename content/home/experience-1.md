@@ -11,6 +11,6 @@ design:
     text_color_light: true
     image_darken: 0
 ---
-Research consultant: IDG Capital, Matrixport Capital, Huobi Ventures
+Research consultant: [IDG Capital](https://en.idgcapital.com/), [Matrixport Ventures](https://www.matrixport.com/), [Huobi Ventures](https://www.huobi.com/en-us/capital/)
 
-Research Engineer / Teaching Assistant / Research Assistant: National University of Singapore
+Research Engineer / Teaching Assistant / Research Assistant: [National University of Singapore](https://www.nus.edu.sg/)
