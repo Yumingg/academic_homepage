@@ -24,7 +24,7 @@ social:
       header: false
     link: huangyuming158
     icon: wechat
-    icon_pack: far
+    icon_pack: fab
 organizations:
   - name: National University of Singapore
     url: https://nus.edu.sg/
