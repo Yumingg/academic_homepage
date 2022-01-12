@@ -13,7 +13,9 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-I actively invest in crypto venture projects with technical contributions in decentralization. Some of my recent interests are as follows. 
+I actively invest in crypto venture projects with technical contributions in decentralization. 
+
+Some of my recent interests are as follows. 
 
 1. New applications in zero-knowledge proof. 
 2. Novel proof mechanism.
