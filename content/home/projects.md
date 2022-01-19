@@ -18,9 +18,9 @@ As a long-term believer of cryptocurrency, I actively invest in crypto venture p
 Some of my recent interests (not limit to) are as follows. 
 
 1. New applications in zero-knowledge proof. 
-2. Novel proof mechanism.
-3. Novel economical design. 
+2. Miner's extractive value. 
+3. Novel proof mechanism / Novel economical design. 
 4. New consensus algorithm with solid theory. 
-5. New progress on anonymous communication/transaction.
+5. Anonymous communication/transaction.
 
 Here are my favourite portfolio selections (altcoin).
