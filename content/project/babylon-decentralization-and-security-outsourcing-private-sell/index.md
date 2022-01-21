@@ -1,0 +1,11 @@
+---
+title: "Babylon: Decentralization and security outsourcing (private sell)"
+date: 2022-01-21T14:07:59.188Z
+draft: false
+featured: false
+external_link: www.ymhuang.me
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
