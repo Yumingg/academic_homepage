@@ -1,5 +1,5 @@
 ---
-title: "Babylon: Decentralization and security outsourcing (private sell)"
+title: "Babylon: Decentralization outsourcing (Private sell)"
 date: 2022-01-21T14:07:59.188Z
 draft: false
 featured: false
