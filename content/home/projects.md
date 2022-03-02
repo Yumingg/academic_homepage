@@ -20,7 +20,7 @@ Some of my recent interests (not limit to) are as follows.
 1. New applications in zero-knowledge proof. 
 2. Miner extractable value. 
 3. Novel proof mechanism / Novel economical design. 
-4. New consensus algorithm with solid theory. 
+4. New crypto native applications. 
 5. Anonymous communication/transaction.
 
 Here are my favourite portfolio selections (altcoin).
