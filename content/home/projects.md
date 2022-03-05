@@ -13,8 +13,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in bull/bear cycle. I put quality before quantity. 
-
+As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in bull/bear cycle.
 Some of my recent interests (not limit to) are as follows. 
 
 1. New applications in zero-knowledge proof. 
