@@ -1,11 +1,14 @@
 ---
 title: "IPFS: Theory and Practice"
+subtitle: ""
 publication_types:
   - "5"
 authors:
   - Tianyi Dong
   - Jiale Dai
   - Yuming Huang
+doi: ""
+publication: China Machine Press
 draft: false
 featured: false
 image:
