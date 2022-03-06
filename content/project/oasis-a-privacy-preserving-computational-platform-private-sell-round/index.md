@@ -1,5 +1,5 @@
 ---
-title: "Oasis: privacy preserving computation platform (Private Sale)"
+title: "Oasis: privacy preserving computation platform(Private Sale)"
 date: 2020-06-01T15:56:59.228Z
 draft: false
 featured: false
