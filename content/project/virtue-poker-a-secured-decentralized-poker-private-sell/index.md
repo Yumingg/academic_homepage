@@ -1,5 +1,5 @@
 ---
-title: "Virtue Poker: a secured decentralized poker (Private Sell)"
+title: "Virtue Poker: a secured decentralized poker (Private Sale)"
 date: 2021-08-12T16:20:58.974Z
 draft: false
 featured: false
