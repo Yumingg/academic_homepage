@@ -7,7 +7,7 @@ authors:
   - Jing Tang
   - Qianhao Cong
   - Andrew Lim
-  - and Jianliang Xu.
+  - Jianliang Xu.
 publication: Proceedings of the ACM SIGMOD International Conference on
   Management of Data (SIGMOD) 2021.
 draft: false
