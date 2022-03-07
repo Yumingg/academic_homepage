@@ -6,8 +6,7 @@ authors:
   - Yuming Huang
   - Jing Tang
   - Qianhao Cong
-  - Andrew Lim
-  - Jianliang Xu.
+  - Andrew Lim and Jianliang Xu.
 publication: Proceedings of the ACM SIGMOD International Conference on
   Management of Data (SIGMOD) 2021.
 draft: false
