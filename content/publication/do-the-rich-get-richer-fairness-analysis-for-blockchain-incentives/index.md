@@ -1,5 +1,5 @@
 ---
-title: Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives.
+title: Do the Rich Get Richer? Fairness Analysis for Blockchain Incentives
 publication_types:
   - "1"
 authors:
