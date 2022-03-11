@@ -7,7 +7,7 @@ authors:
   - Jing Tang
   - Yuming Huang
   - Lei Chen
-  - and Yeow Meng Chee
+  - Yeow Meng Chee
 publication_short: Proceeding IEEE International Conference on Data Engineering
   (ICDE) 2022, Forthcoming
 draft: false
