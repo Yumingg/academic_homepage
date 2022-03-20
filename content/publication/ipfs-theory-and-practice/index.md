@@ -1,5 +1,5 @@
 ---
-title: "IPFS: Theory and Practice (In Chinese: IPFS 原理与实践)"
+title: "IPFS: Principles and Practices (In Chinese: IPFS 原理与实践)"
 subtitle: ""
 publication_types:
   - "5"
