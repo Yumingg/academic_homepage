@@ -1,5 +1,5 @@
 ---
-title: "Ethsign: On-chain and Off-chain Gateway (Private Sale)"
+title: "Ethsign: On/Off-Chain Gateway via Law (Private Sale)"
 date: 2022-03-02T15:15:55.090Z
 draft: false
 featured: false
