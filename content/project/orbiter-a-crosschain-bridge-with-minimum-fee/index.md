@@ -1,5 +1,5 @@
 ---
-title: "Orbiter: A crosschain bridge with minimum fee"
+title: "Orbiter: A optimistic bridge with minimum fee (Private Sell)"
 date: 2022-04-21T16:10:03.448Z
 draft: false
 featured: false
