@@ -11,8 +11,7 @@ authors:
   - Yeowmeng Chee
 doi: ""
 publication: ""
-publication_short: Proceedings of the ACM International Conference on Knowledge
-  Discovery and Data Mining (SIGKDD) 2022
+publication_short: Proceeding of ACM Conference on Knowledge Discovery and Data Mining (KDD) 2022
 draft: false
 featured: false
 image:
