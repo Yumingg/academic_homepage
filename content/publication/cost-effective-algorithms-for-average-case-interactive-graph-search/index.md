@@ -8,8 +8,7 @@ authors:
   - Yuming Huang
   - Lei Chen
   - Yeow Meng Chee
-publication_short: Proceeding IEEE International Conference on Data Engineering
-  (ICDE) 2022, Forthcoming
+publication_short: Proceeding IEEE International Conference on Data Engineering (ICDE) 2022
 draft: false
 featured: false
 image:
