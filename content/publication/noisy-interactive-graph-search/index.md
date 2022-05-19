@@ -8,7 +8,7 @@ authors:
   - Kai Han
   - Yuming Huang
   - Lei Chen
-  - Yeowmeng Chee
+  - Yeow Meng Chee
 doi: ""
 publication: ""
 publication_short: Proceeding of ACM Conference on Knowledge Discovery and Data Mining (KDD) 2022
