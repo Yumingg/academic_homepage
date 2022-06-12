@@ -1,5 +1,5 @@
 ---
-title: "zCloak: Anonymous DID via Zero Knowledge Proof (Private Sell)"
+title: "zCloak: Anonymous DID via zk-Proof (Private Sell)"
 date: 2022-01-12T10:21:00.000Z
 draft: false
 featured: false
