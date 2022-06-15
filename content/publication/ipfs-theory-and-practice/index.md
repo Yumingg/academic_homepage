@@ -8,7 +8,7 @@ authors:
   - Jiale Dai
   - Yuming Huang
 doi: ""
-publication: China Machine Press
+publication: "China Machine Press (In Chinese: 机械工业出版社)"
 draft: false
 featured: false
 image:
