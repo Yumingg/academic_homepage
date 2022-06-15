@@ -1,6 +1,6 @@
 ---
 title: Huang Yuming
-role: PhD Candidate@ Department of Industrial Engineering and Management
+role: PhD Candidate @ Department of Industrial Engineering and Management
 bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
