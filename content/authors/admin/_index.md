@@ -5,8 +5,8 @@ bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
   - Decentralized Systems
+  - Decentralized Finance
   - Stochastic Processes
-  - Operations Research
 social:
   - icon: envelope
     icon_pack: fas
