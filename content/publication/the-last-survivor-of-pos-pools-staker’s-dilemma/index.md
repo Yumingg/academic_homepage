@@ -6,8 +6,10 @@ authors:
   - Yuming Huang
   - Jing Tang
   - Qianhao Cong
-  - Andrew Lim and Jianliang Xu
-publication: Under Review
+  - Richard T.B. Ma
+  - Lei Chen
+  - Yeowmeng Chee
+publication: VLDB 2023, Under Review
 draft: false
 featured: false
 image:
