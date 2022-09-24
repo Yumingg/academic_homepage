@@ -9,7 +9,7 @@ authors:
   - Richard T.B. Ma
   - Lei Chen
   - Yeowmeng Chee
-publication: VLDB 2023, Under Review
+publication: Under Review
 draft: false
 featured: false
 image:
