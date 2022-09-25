@@ -8,7 +8,7 @@ authors:
   - Qianhao Cong
   - Richard T.B. Ma
   - Lei Chen
-  - Yeowmeng Chee
+  - Yeow Meng Chee
 publication: Under Review
 draft: false
 featured: false
