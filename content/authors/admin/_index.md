@@ -36,7 +36,7 @@ education:
     - course: BEng in Automation
       institution: Northwestern Polytechnical University
       year: ""
-email: huangyuming@u.nus.edu
+email: ymhuang@nus.edu.sg
 superuser: true
 highlight_name: false
 ---
