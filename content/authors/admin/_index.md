@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:huangyuming@u.nus.edu
+    link: mailto:ymhuang@nus.edu.sg
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YumingHuang95
