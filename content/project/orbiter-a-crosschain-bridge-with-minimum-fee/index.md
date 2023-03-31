@@ -1,5 +1,5 @@
 ---
-title: "Orbiter: A optimistic bridge with minimum fee (Private Sell)"
+title: "Orbiter: A optimistic bridge with minimum fee (Seed)"
 date: 2022-04-21T16:10:03.448Z
 draft: false
 featured: false
