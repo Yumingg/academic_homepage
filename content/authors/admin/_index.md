@@ -1,6 +1,7 @@
 ---
 title: Huang Yuming
 role: Research Fellow @ Department of Industrial Engineering and Management
+avatar_filename: pic.png
 bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
