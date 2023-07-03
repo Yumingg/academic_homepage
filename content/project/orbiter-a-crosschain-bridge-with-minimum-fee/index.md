@@ -1,5 +1,5 @@
 ---
-title: "Orbiter: A optimistic bridge with minimum fee (Lead with Matrixport)"
+title: "Orbiter: A low-cost optimistic bridge (Lead with Matrixport)"
 date: 2022-04-21T16:10:03.448Z
 draft: false
 featured: false
