@@ -45,4 +45,4 @@ I am currently a Postdoctroral Research Fellow at Department of Industrial Syste
 
 I  minted my PhD degree from {{< staticref "https://cde.nus.edu.sg/isem/" "newtab" >}} NUS ISEM{{< /staticref >}} in Apr 2023 supervised by {{< staticref "https://www.nus.edu.sg/about/management/chee-yeow-meng" "newtab" >}}Prof. Chee Yeow Meng{{< /staticref >}} and {{< staticref "https://www.limandrew.org/" "newtab" >}} Prof. Andrew Lim {{< /staticref >}}. I also work closely with {{< staticref "https://sites.google.com/view/jtang" "newtab" >}}Prof. Jing Tang{{< /staticref >}}. Before learning in NUS, I received my B.E. degree from the School of Automation, {{< staticref "https://en.nwpu.edu.cn" "newtab" >}}Northwestern Polytechnical University{{< /staticref >}} in 2017.
 
-My research interests center around blockchain and cryptocurrency, especially token economics and decentralized systems. Besides research, I actively invest crypto startups with technical contribution and innovation in decentralization. I also advise several crypto startups and capitals.
+My research interests center around blockchain and cryptocurrency, especially token economics and decentralized systems. 
