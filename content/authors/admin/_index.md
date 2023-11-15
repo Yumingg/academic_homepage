@@ -26,9 +26,7 @@ social:
     link: huangyuming158
     icon: wechat
     icon_pack: fab
-organizations:
-  - name: National University of Singapore
-    url: https://nus.edu.sg/
+organizations: []
 education:
   courses:
     - course: PhD in Industrial Engineering
