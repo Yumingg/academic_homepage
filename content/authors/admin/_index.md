@@ -9,12 +9,21 @@ interests:
   - Decentralized Finance
   - Stochastic Processes
 social:
+  - display:
+      header: true
+    link: mailto:huangyuming@u.nus.edu
+    icon_pack: fas
+    icon: envelope
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/YumingHuang95
+    display:
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.sg/citations?user=xv6lgqIAAAAJ
+    display:
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://sg.linkedin.com/in/huangyuming
@@ -23,11 +32,6 @@ social:
     link: huangyuming158
     icon: wechat
     icon_pack: fab
-  - display:
-      header: false
-    link: mailto:huangyuming@u.nus.edu
-    icon_pack: fas
-    icon: Envelope
 organizations: []
 education:
   courses:
