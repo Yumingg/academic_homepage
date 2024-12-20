@@ -7,7 +7,7 @@ interests:
   - Crypto Economics
   - Decentralized Systems
   - Decentralized Finance
-  - Stochastic Processes
+  - Stochastic Process
 social:
   - display:
       header: true
