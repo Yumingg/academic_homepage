@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: pages
 widget_id: "4"
 headless: true
 weight: 40
