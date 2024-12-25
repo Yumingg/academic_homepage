@@ -13,7 +13,7 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-As a long-term advocate of cryptocurrency, I actively invest in crypto venture projects that significantly contribute to decentralization, regardless of market conditions. My focus is on technological innovations that have the potential to disrupt existing business models or create new demands. Although I typically make only a few investments each year, I often take the lead in the first round of funding alongside my friends when I have a clear vision. I am particularly interested in being the first investor in teams that offer new narratives or provide fresh insights into established markets. Additionally, I approach each investment of interest as a research project. 
+As a long-term supporter of cryptocurrency, I invest in ventures that make significant technical contributions to decentralization. My focus is on technological innovations that have the potential to disrupt traditional business models or create new demands. Although I typically make only a few investments each year, I often lead the first round of funding alongside my friends when I identify a clear opportunity. I take pride in being the first investor in teams that present fresh narratives or unique insights into established markets. Each investment is a serious commitment for me, approached as a research project where I rigorously analyze every aspect. 
 
 The following are my primary interests (not limit to):
 
