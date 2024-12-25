@@ -13,28 +13,26 @@ design:
 ---
 **Professional Experience**:
 
-- **Technical Advisor**: 
+- *Technical Advisor*: 
   - [IDG Capital](https://en.idgcapital.com/) (Dec 2021 - Present)
   
-- **Venture Partner**: 
+- *Venture Partner*: 
   - [Matrixport Ventures](https://www.matrixport.com/) (Dec 2021 - Nov 2023) 
   
-- **Investment Analyst Intern**: 
+- *Investment Analyst Intern*: 
   - [Huobi Ventures](https://www.huobi.com/en-us/capital/) (Jan 2021 - May 2022)
 
----
 
 **Academic Experience**:
 
-- **Research Engineer / Teaching Assistant / Research Assistant**: 
+- *Research Engineer / Teaching Assistant / Research Assistant*: 
   - [National University of Singapore](https://www.nus.edu.sg/) (July 2017 - August 2023)
 
----
 
 **Academic Volunteering**:
 
-- **Reviewer / External Reviewer / Sub Reviewer**:
+- *Reviewer / External Reviewer / Sub Reviewer*:
   - VLDB, SIGMETRICS, TKDE, TNSE, AAAI, TII, DASFAA, ICDCS, CIST
 
-- **Guest Lecturer**:
+- *Guest Lecturer*:
   - DASA5022 (HKUST): Data Analysis and Privacy Protection on Blockchain
