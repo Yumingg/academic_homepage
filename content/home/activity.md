@@ -1,6 +1,6 @@
 ---
-widget: blank
-widget_id: "2"
+widget: page
+widget_id: "4"
 headless: true
 weight: 40
 title: Academic Activities
@@ -14,7 +14,7 @@ design:
 ---
 Reviewer/External Reviewer/Sub Reviewer: 
 
-  VLDB/TKDE/TNSE/AAAI/TII/DASFAA/ICDCS/CIST
+  VLDB/SIGMETRICS/TKDE/TNSE/AAAI/TII/DASFAA/ICDCS/CIST
 
 Guest Lecturer: 
 
