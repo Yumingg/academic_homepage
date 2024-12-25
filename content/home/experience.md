@@ -11,23 +11,23 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Professional Experience: 
+##Professional Experience: 
 
-  Technical Advisor in [IDG Capital](https://en.idgcapital.com/) since Dec 2021.
+  Technical Advisor in [IDG Capital](https://en.idgcapital.com/) since Dec 2021 til now.
   
   Venture Partner in [Matrixport Ventures](https://www.matrixport.com/) Dec 2021 - Nov 2023. 
   
   Investment Anlyst Intern in [Huobi Ventures](https://www.huobi.com/en-us/capital/) Jan 2021 - May 2022. 
 
-Academic Experience:
+##Academic Experience:
 
 Research Engineer / Teaching Assistant / Research Assistant in 
 [National University of Singapore](https://www.nus.edu.sg/) July 2017 - August 2023. 
 
-Academic Volunteering:
+##Academic Volunteering:
 
   Reviewer/External Reviewer/Sub Reviewer:
-  
+
   VLDB/SIGMETRICS/TKDE/TNSE/AAAI/TII/DASFAA/ICDCS/CIST
 
   Guest Lecturer:
