@@ -3,7 +3,7 @@ widget: blank
 widget_id: "4"
 headless: true
 weight: 60
-title: Experience
+title: Professional Experience
 active: true
 design:
   columns: "2"
