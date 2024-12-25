@@ -13,12 +13,14 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-As a long-term believer of cryptocurrency, I actively invest in crypto venture projects with nontrivial technical contributions in decentralization, no matter in bull/bear cycle. I prefer the Technological innovations that can disrupt existing business models or generate new demands.
+As a long-term advocate of cryptocurrency, I actively invest in crypto venture projects that significantly contribute to decentralization, regardless of market conditions. My focus is on technological innovations that have the potential to disrupt existing business models or create new demands. Although I typically make only a few investments each year, I often take the lead in the first round of funding alongside my friends when I have a clear vision. I am particularly interested in being the first investor in teams that offer new narratives or provide fresh insights into established markets. Additionally, I approach each investment of interest as a research project. 
+
+The following are my primary interests (not limit to):
 
 1. Open and Free Internet Infrastructure and Applications. 
-2. "Small-and-sweet" crypto native applications. 
-2. Novel proof mechanism / Novel economical design. 
-3. Anonymous communication/transaction.
-5. AI agents with business potentials. 
+2. "Small-and-sweet" crypto native applications that further improve capital efficiency. 
+3. Novel proof mechanism / Novel economical design ponzi. 
+4. Anonymous communication/transaction.
+5. AI agents with new business insights. 
 
-Here are my favourite portfolio selections (altcoin).
+Here are my investment portfolio selections (altcoin).
