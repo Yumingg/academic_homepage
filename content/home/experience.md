@@ -35,7 +35,7 @@ design:
 ## Academic Volunteering:
 
 - *Reviewer / External Reviewer / Sub Reviewer*:
-  - VLDB, SIGMETRICS, TKDE, TNSE, AAAI, TII, DASFAA, ICDCS, CIST
+  - PVLDB, SIGMETRICS, TKDE, TNSE, AAAI, TII, DASFAA, ICDCS, CIST
 
 - *Guest Lecturer*:
   - DASA5022 (HKUST): Data Analysis and Privacy Protection on Blockchain
