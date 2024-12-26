@@ -27,7 +27,7 @@ design:
 
 ## Academic Experience:
 
-- *Research Engineer / Teaching Assistant / Research Assistant*: 
+- *Postdoc / Research Engineer / Teaching Assistant / Research Assistant*: 
   - [National University of Singapore](https://www.nus.edu.sg/) (July 2017 - August 2023)
 
 <br>
