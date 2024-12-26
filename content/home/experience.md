@@ -23,7 +23,7 @@ design:
   - [Huobi Ventures](https://www.huobi.com/en-us/capital/) (Jan 2021 - May 2022)
 
 
-
+\\
 
 
 ## Academic Experience:
@@ -31,9 +31,7 @@ design:
 - *Research Engineer / Teaching Assistant / Research Assistant*: 
   - [National University of Singapore](https://www.nus.edu.sg/) (July 2017 - August 2023)
 
-
-
-
+//
 
 ## Academic Volunteering:
 
