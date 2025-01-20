@@ -10,7 +10,7 @@ authors:
   - Yuming Huang
   - Xuechao Wang
   - Jing Tang
-publication: WWW 2025 Forthcoming
+publication: Proceeding of ACM WWW 2025 Forthcoming
 draft: false
 featured: false
 image:
