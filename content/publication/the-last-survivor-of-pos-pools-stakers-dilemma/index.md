@@ -13,7 +13,8 @@ authors:
   - Yeow Meng Chee
 doi: ""
 publication: ""
-publication_short: Proceeding of ACM SIGMETRICS 2025 Forthcoming
+publication_short: Proceeding of ACM International Conference on Measurement and
+  Evaluation (SIGMETRICS) 2025 Forthcoming
 draft: false
 featured: false
 image:
@@ -22,4 +23,3 @@ image:
   preview_only: false
 date: 2024-12-20T09:14:47.495Z
 ---
-
