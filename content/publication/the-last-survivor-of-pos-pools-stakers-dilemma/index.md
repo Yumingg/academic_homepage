@@ -8,7 +8,7 @@ authors:
   - Qianhao Cong
   - Jing Tang
   - Qianhao Cong
-  - Richard Ma
+  - Richard T. B. Ma
   - Lei Chen
   - Yeow Meng Chee
 doi: ""
