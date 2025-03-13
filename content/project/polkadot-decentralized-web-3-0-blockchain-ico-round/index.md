@@ -1,5 +1,5 @@
 ---
-title: "Polkadot: Decentralized Web 3.0 Blockchain (ICO Round)"
+title: "Polkadot: Decentralized Web 3.0 Blockchain"
 date: 2021-08-12T15:54:42.684Z
 draft: false
 featured: false
