@@ -1,5 +1,5 @@
 ---
-title: "Filecoin: A decentralized file storage system. (ICO Round)"
+title: "Filecoin: A decentralized file storage system. "
 subtitle: ""
 date: 2017-09-01T14:41:31.585Z
 draft: false
