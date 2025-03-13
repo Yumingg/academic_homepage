@@ -1,5 +1,5 @@
 ---
-title: "Algorand: A scalable Blockchain (ICO Round)"
+title: "Algorand: A scalable Blockchain "
 date: 2021-08-12T16:23:00.732Z
 draft: false
 featured: false
