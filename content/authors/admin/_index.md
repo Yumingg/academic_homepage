@@ -1,7 +1,7 @@
 ---
 title: Huang Yuming
 role: Researcher in Blockchain
-avatar_filename: avatar.jpg
+avatar_filename: avator.png
 bio: My research interests cover cryptocurrency and Blockchain.
 interests:
   - Crypto Economics
