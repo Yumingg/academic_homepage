@@ -6,7 +6,8 @@ authors:
   - Han Linghu
   - Qianhao Cong
   - Yuming Huang
-  - Shangqi LuLiang Feng
+  - Shangqi Lu
+  - Liang Feng
   - Jing Tang
 publication: Proceedings of the ACM International Conference on Management of
   Data (SIGMOD) 2026 Forthcoming
