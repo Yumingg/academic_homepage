@@ -9,7 +9,7 @@ authors:
   - Shangqi LuLiang Feng
   - Jing Tang
 publication: Proceedings of the ACM International Conference on Management of
-  Data (SIGMOD) 2026
+  Data (SIGMOD) 2026 Forthcoming
 draft: false
 featured: false
 image:
